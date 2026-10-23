@@ -8,7 +8,7 @@ O **Abacus** é uma aplicação de calculadora desktop desenvolvida em **Java** 
 
 | Tela Principal | Histórico de Operações |
 | :---: | :---: |
-| ![Interface da Calculadora](https://github.com/JZanataNeto/abacus/blob/master/src/main/resources/com/joaozanata/abacus/abacus.png) | ![Histórico em Ação](https://placehold.co) |
+| ![Interface da Calculadora](https://github.com/JZanataNeto/abacus/blob/master/src/main/resources/com/joaozanata/abacus/abacus.png) | ![Histórico em Ação](https://github.com/JZanataNeto/abacus/blob/master/src/main/resources/com/joaozanata/abacus/abacus_hist.png) |
 
 > *Substitua os links das imagens acima pelos caminhos das suas capturas de tela reais (ex: `docs/screenshot1.png`).*
 
