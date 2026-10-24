@@ -1,6 +1,6 @@
 # 🧮 Abacus - Calculadora JavaFX
 
-O **Abacus** é uma aplicação de calculadora desktop desenvolvida em **Java** utilizando a interface gráfica **JavaFX**. O projeto segue o padrão de arquitetura MVC (Model-View-Controller), onde a classe `CalculatorController` gerencia toda a lógica de eventos, cliques e interações do usuário.
+O **Abacus** é uma aplicação de calculadora desktop desenvolvida em **Java** utilizando a interface gráfica **JavaFX** e **Scene Builder**. O projeto segue o padrão de arquitetura MVC (Model-View-Controller), onde a classe `CalculatorController` gerencia toda a lógica de eventos, cliques e interações do usuário.
 
 ---
 
@@ -10,7 +10,7 @@ O **Abacus** é uma aplicação de calculadora desktop desenvolvida em **Java** 
 | :---: | :---: |
 | ![Interface da Calculadora](https://github.com/JZanataNeto/abacus/blob/master/src/main/resources/com/joaozanata/abacus/abacus-2.png) | ![Histórico em Ação](https://github.com/JZanataNeto/abacus/blob/master/src/main/resources/com/joaozanata/abacus/abacus_hist.png) |
 
-> *Substitua os links das imagens acima pelos caminhos das suas capturas de tela reais (ex: `docs/screenshot1.png`).*
+
 
 ---
 
@@ -82,4 +82,4 @@ A lógica principal reside no pacote `com.joaozanata.abacus.CalculatorController
 
 ## ✒️ Autor
 
-* **João Zanata** - *Desenvolvedor Principal* - [Seu GitHub](https://github.com)
+* **João Zanata Neto** - *Desenvolvedor*
