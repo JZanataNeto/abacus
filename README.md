@@ -26,16 +26,11 @@ O **Abacus** é uma aplicação de calculadora desktop desenvolvida em **Java** 
 
 ---
 
-## 🧪 Como Experimentar Rapidamente (Via `.jar`)
+## 🧪 Como Experimentar Rapidamente (Via `.exe`)
 
 Se você quer apenas testar a calculadora sem precisar compilar o código fonte, pode executar o arquivo binário pré-compilado:
 
-1. Acesse a aba **Releases** do repositório e baixe o arquivo `abacus.jar`.
-2. Certifique-se de ter o **Java 17 (ou superior)** instalado em sua máquina.
-3. Abra o terminal na pasta onde o arquivo foi baixado e execute o comando:
-   ```bash
-   java -jar abacus.jar
-   ```
+1. Acesse a aba **Releases** do repositório e baixe o arquivo `abacus.exe`.
 
 ---
 
